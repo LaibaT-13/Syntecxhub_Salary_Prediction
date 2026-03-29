@@ -38,7 +38,7 @@ The project compares single-feature and multi-feature linear regression models a
 👉 Note: The multiple feature model achieved perfect performance due to data leakage, as one of the features was derived from the target variable.
 
 ## 📂 Dataset
-The dataset (Salary_dataset.csv) contains:
+The dataset ([Salary_dataset.csv](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression/data)) contains:
 - YearsExperience
 - Salary
 
