@@ -1,7 +1,7 @@
 # Syntecxhub_Salary_Prediction
 
 ## 💼 Salary Prediction (Linear Regression)
-This project is part of my Machine Learning internship at Syntecxhub (Task-01). It demonstrates a regression-based approach to predict salary based on experience and additional features.
+This project is part of my Machine Learning knowledge. It demonstrates a regression-based approach to predict salary based on experience and additional features.
 
 ## 📌 Objective
 Build a regression model to predict salary using:
